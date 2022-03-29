@@ -1,0 +1,6 @@
+[submodule "modules/fmt"]
+	path = modules/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "cmake"]
+	path = cmake
+	url = https://github.com/chronoxor/CppCMakeScripts.git
